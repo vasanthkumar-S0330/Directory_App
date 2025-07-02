@@ -148,20 +148,20 @@ export default {
       {
         route: '/msp/feature-1',
         name: 'MspFeature1',
-        label: 'MSP Feature 1',
-        icon: 'fas fa-star'
+        label: 'Billing',
+        icon: 'fas fa-dollar-sign'
       },
       {
         route: '/msp/feature-2',
         name: 'MspFeature2',
-        label: 'MSP Feature 2',
-        icon: 'fas fa-chart-line'
+        label: 'All Organizations',
+        icon: 'fas fa-building'
       },
       {
         route: '/msp/feature-3',
         name: 'MspFeature3',
-        label: 'MSP Feature 3',
-        icon: 'fas fa-tools'
+        label: 'MSP Admin',
+        icon: 'fas fa-user-shield'
       }
     ]
 
